@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Machine Front](https://lauren-inch.github.io/Full Machine Front.jpg)
+![Machine Front](https://github.com/lauren-inch/lauren-inch.github.io/blob/master/Full%20Machine%20Front.JPG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
